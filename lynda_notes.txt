@@ -1,0 +1,10 @@
+Web Analytics Review:
+Unique Visitor - can make multiple visits to website counted as one: Visitor can generate multiple visits to the web page
+Page View - each page navigated to, one visit can have multiple page views
+Events - JS events that occur when the page loads 
+
+Visitor can make multiple visits that can have multiple page views, which can have multiple events
+
+
+Metric based report - you can look at one single metric (usually over time) without much other context
+Item based report - you can look at a metric by line item values (i.e. page views per page)
